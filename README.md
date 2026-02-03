@@ -1,6 +1,8 @@
 ## USB-driver for linux systeam
 
-### How to compile
+device driver build and tested on 6.14.0-37-generic kernel version.
+
+### How to compile ?
 
 ### Requirements
 ```
