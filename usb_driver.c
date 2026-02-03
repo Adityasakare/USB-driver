@@ -10,7 +10,7 @@ static struct usb_device* device;
 
 
 static struct usb_device_id skel_table[] = {
-    {USB_DEVICE(0x0e8d, 0x201c)},           // fetched from dmesg
+    {USB_DEVICE(0x0e8d, 0x201c)},           // fetched from dmesg vendorId, ProductID
     {}};
 MODULE_DEVICE_TABLE(usb, skel_table);
 
